@@ -1,2 +1,10 @@
 # RealtimeSystems-Lab4-Ver2
-lab 4 using scheduler + software_timer + fsm
+
+VGU Realtime Systems Course - Summer Semester 2024-2025 - Lab 4 submission
+
+Group: Ouroboros
+
+Brief description: implement the 2 way traffic light using scheduler + software_timer + fsm
+
+
+Created on: Arduino IDE
